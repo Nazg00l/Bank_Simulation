@@ -15,3 +15,4 @@ using std::string;
 
 const short WORKING_HOURS = 7;
 
+// This should be comitted to master now
